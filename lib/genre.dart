@@ -21,7 +21,17 @@ class Genre extends StatelessWidget {
             new Text(
               "Genre Drama",
               style: new TextStyle(fontSize: 30.0, color: Colors.lightGreen),
-            )
+            ),
+            new Text(
+              "Komedi romantis : Oh! Master & crash landing on you
+                Kriminal : Flower of evil & extracurricular
+                Thriller : Sweet home & the call
+                Mellow : Miracle in cell no.7 & move to heaven
+                Actions : Sisyphus the myth & Luca: the beginning
+                Historical (saeguk) : Dae jang geum & My sassy girl 2017
+                Fantasy : The uncanny counter & Hi bye, mama!",
+              style: new TextStyle(fontSize: 30.0, color: Colors.lightGreen),
+            ),
           ],
         ),
       ),
