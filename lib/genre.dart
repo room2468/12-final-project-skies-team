@@ -15,22 +15,16 @@ class Genre extends StatelessWidget {
             ),
             new Icon(
               Icons.movie_creation,
-              size: 90.0,
+              size: 80.0,
               color: Colors.lightBlueAccent,
             ),
             new Text(
               "Genre Drama",
-              style: new TextStyle(fontSize: 30.0, color: Colors.lightGreen),
+              style: new TextStyle(fontSize: 20.0, color: Colors.black),
             ),
             new Text(
-              "Komedi romantis : Oh! Master & crash landing on you
-                Kriminal : Flower of evil & extracurricular
-                Thriller : Sweet home & the call
-                Mellow : Miracle in cell no.7 & move to heaven
-                Actions : Sisyphus the myth & Luca: the beginning
-                Historical (saeguk) : Dae jang geum & My sassy girl 2017
-                Fantasy : The uncanny counter & Hi bye, mama!",
-              style: new TextStyle(fontSize: 30.0, color: Colors.lightGreen),
+              "Komedi romantis : Oh! Master & crash landing on you/n Kriminal : Flower of evil & extracurricular/n Thriller : Sweet home & the call/n Mellow : Miracle in cell no.7 & move to heaven/n Actions : Sisyphus the myth & Luca: the beginning/n Historical (saeguk) : Dae jang geum & My sassy girl 2017/n Fantasy : The uncanny counter & Hi bye, mama!",
+              style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
           ],
         ),
