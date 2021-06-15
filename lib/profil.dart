@@ -22,8 +22,27 @@ class Profil extends StatelessWidget {
               "Profil Pemain",
               style: new TextStyle(fontSize: 20.0, color: Colors.black),
             ),
+            Image.network(
+                'https://asianwiki.com/images/e/e8/Oh_My_Ladylord-P1.jpg'),
             new Text(
-              "OH! MASTER/n 1.Lee Min-ki/n Tanggal Lahir : 16 Januari 1985/n Tahun Aktif : 2004 - sekarang/n Agensi : Good Management/n 2.Nana (Im Jin-ah)/n Tanggal Lahir : 14 Sepember 1991/n Tahun Aktif : 2009 - sekarang/n Agensi : Pledis Entertainment/n TMI : Nana pernah menjadi bagian dari girlgroup After School dan subunit Orange Caramel/n 3.Kang Minhyuk/n Tanggal Lahir : 28 Juni 1991/n Tahun Aktif : 2010 - sekarang/n Agensi : FNC Entertainment/n TMI : Kang Minhyuk tergabung dalam grup band CNBLUE yang debut pada tahun 2009 dan masih aktif hingga sekarang.",
+              "OH! MASTER",
+              style: new TextStyle(fontSize: 15.0, color: Colors.black),
+            ),
+            Image.network('https://pbs.twimg.com/media/EhoDRVuUcAAwok_.jpg'),
+            new Text(
+              "1.Lee Min-ki/n Tanggal Lahir : 16 Januari 1985/n Tahun Aktif : 2004 - sekarang/n Agensi : Good Management",
+              style: new TextStyle(fontSize: 15.0, color: Colors.black),
+            ),
+            Image.network(
+                'https://file.tinnhac.com/resize/600x-/music/2017/11/20/after-school-nana-or-c02e.jpg'),
+            new Text(
+              "2.Nana (Im Jin-ah)/n Tanggal Lahir : 14 Sepember 1991/n Tahun Aktif : 2009 - sekarang/n Agensi : Pledis Entertainment/n TMI : Nana pernah menjadi bagian dari girlgroup After School dan subunit Orange Caramel/n ",
+              style: new TextStyle(fontSize: 15.0, color: Colors.black),
+            ),
+            Image.network(
+                'https://www.femina.co.id/images/images_article/c9f80b361fd7ec74f5c4ec91928d7b81.jpg'),
+            new Text(
+              "3.Kang Minhyuk/n Tanggal Lahir : 28 Juni 1991/n Tahun Aktif : 2010 - sekarang/n Agensi : FNC Entertainment/n TMI : Kang Minhyuk tergabung dalam grup band CNBLUE yang debut pada tahun 2009 dan masih aktif hingga sekarang.",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
             new Text(
