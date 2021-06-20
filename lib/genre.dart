@@ -19,7 +19,7 @@ class Genre extends StatelessWidget {
               color: Colors.lightBlueAccent,
             ),
             new Text(
-              "Rekomendasi Genre Drama",
+              "Rekomendasi Genre Drama/Film",
               style: new TextStyle(fontSize: 20.0, color: Colors.black),
             ),
             new Text(
