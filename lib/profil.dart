@@ -22,7 +22,7 @@ class Profil extends StatelessWidget {
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
             Image.network(
-                'https://asianwiki.com/images/e/e8/Oh_My_Ladylord-P1.jpg'),
+                'https://upload.wikimedia.org/wikipedia/id/c/c5/Oh%21_Master.jpg'),
             new Text(
               "1.Lee Min-ki",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
