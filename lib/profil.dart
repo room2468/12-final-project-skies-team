@@ -18,9 +18,11 @@ class Profil extends StatelessWidget {
               style: new TextStyle(fontSize: 20.0, color: Colors.black),
             ),
             new Text(
-              "OH! MASTER",
+              "OH! MASTER / OH MY LADYLORD (2021)",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://asianwiki.com/images/e/e8/Oh_My_Ladylord-P1.jpg'),
             new Text(
               "1.Lee Min-ki",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -81,6 +83,8 @@ class Profil extends StatelessWidget {
               "CRASH LANDING ON YOU",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/id/6/64/Crash_Landing_on_You_main_poster.jpg'),
             new Text(
               "1.HyunBin",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -153,6 +157,8 @@ class Profil extends StatelessWidget {
               "FLOWER OF EVIL",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/id/6/61/Flower_of_Evil_main_poster.jpg'),
             new Text(
               "1.Lee Joon-gi",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -205,6 +211,7 @@ class Profil extends StatelessWidget {
               "EXTRACURRICULAR",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network('https://i.mydramalist.com/27Ry2f.jpg'),
             new Text(
               "1.Kim Dong-hee",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -273,6 +280,8 @@ class Profil extends StatelessWidget {
               "SWEET HOME",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://akcdn.detik.net.id/community/media/visual/2020/12/03/sweet-home.jpeg?w=1080'),
             new Text(
               "1.Song Kang",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -325,6 +334,8 @@ class Profil extends StatelessWidget {
               "THE CALL",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://krilianeh.files.wordpress.com/2020/12/poster-the-call.jpg'),
             new Text(
               "1.Park Shin-hye",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -361,6 +372,8 @@ class Profil extends StatelessWidget {
               "MIRACLE IN CELL NO.7",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/id/4/4c/Miracle_in_Cell_No_7_poster.jpg'),
             new Text(
               "1.Ryu Seung-ryong",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -413,6 +426,8 @@ class Profil extends StatelessWidget {
               "MOVE TO HEAVEN",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://foto.kontan.co.id/8RJVF55OsrA_UTPyuRcEanpBIMY=/smart/2021/04/15/1261073749p.jpg'),
             new Text(
               "1.Lee Je-hoon",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -453,6 +468,8 @@ class Profil extends StatelessWidget {
               "SISYPHUS:THE MYTH",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/en/c/c5/Sisyphus_The_Myth.jpeg'),
             new Text(
               "1.Park Shin-hye",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -489,6 +506,8 @@ class Profil extends StatelessWidget {
               "LUCA:THE BEGINNING",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/en/b/b9/L.U.C.A._The_Beginning.jpg'),
             new Text(
               "1.Kim Rae-won",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -541,6 +560,8 @@ class Profil extends StatelessWidget {
               "DAE JANG GEUM",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://pics.filmaffinity.com/Dae_Jang_geum_TV_Series_TV_Series-727612729-large.jpg'),
             new Text(
               "1.Lee Young-ae",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -613,6 +634,8 @@ class Profil extends StatelessWidget {
               "MY SASSY GIRL (2017)",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/en/0/0b/My_Sassy_Girl_Teaser_Poster.jpg'),
             new Text(
               "1.Joo Won (Moon Jun-Won)",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -685,6 +708,8 @@ class Profil extends StatelessWidget {
               "THE UNCANNY COUNTER",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://i.pinimg.com/736x/88/94/1b/88941b821e67a99bfa4f8312738f4e92.jpg'),
             new Text(
               "1.Jo Byeong-Gu",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
@@ -753,6 +778,8 @@ class Profil extends StatelessWidget {
               "HI BYE, MAMA!",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
             ),
+            Image.network(
+                'https://upload.wikimedia.org/wikipedia/id/6/65/Hi_Bye%2C_Mama%21.jpg'),
             new Text(
               "1.Kim Tae-Hee",
               style: new TextStyle(fontSize: 15.0, color: Colors.black),
