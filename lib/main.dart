@@ -7,7 +7,7 @@ import './rekomendasi.dart' as rekomendasi;
 
 void main() {
   runApp(new MaterialApp(
-    title: "Tampilan Tab Bar",
+    title: "Skies Team",
     home: new Home(),
   ));
 }
